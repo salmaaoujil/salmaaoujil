@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Bonjour, je suis Salma Aoujil !
+Diplômée en Génie Informatique et actuellement en Bachelor Réseaux, Cybersécurité et Cloud. Passionnée par les systèmes, les réseaux et le hacking éthique.
 
-<!--
-**salmaaoujil/salmaaoujil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Mes compétences
+- **Systèmes & Réseaux :** Linux, Administration, Architecture Client-Serveur
+- **Cybersécurité :** Hacking éthique, CTF (Membre active du club Cyberdune)
+- **Développement :** Python, Django, React.js, Java, PHP
+- **Bases de données :** MySQL, MongoDB, UML
 
-Here are some ideas to get you started:
+### 🚀 Mon projet phare
+👉 **NOVOS** : Plateforme de supervision réseau centralisée (Stage de fin d'études chez NOVOPHARMA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Me contacter
+- 🔗 www.linkedin.com/in/salmaaoujil
+- ✉️ s.aoujil9799@uca.ac.ma
